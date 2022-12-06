@@ -1,0 +1,32 @@
+{
+  "main": "index.js",
+  "type": "commonjs",
+  "name": "api-zap",
+  "version": "1.0.0",
+  "description": "API ZAP",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0",
+    "axios": "^0.24.0",
+    "cfonts": "^2.10.0",
+    "chalk": "^4.1.2",
+    "crypto": "^1.0.1",
+    "file-type": "^16.5.3",
+    "fs": "^0.0.1-security",
+    "human-readable": "^0.2.1",
+    "jimp": "^0.16.1",
+    "link-preview-js": "^2.1.19",
+    "moment-timezone": "^0.5.34",
+    "node-fetch": "^2.6.7",
+    "pino": "^7.0.5",
+    "qrcode-terminal": "^0.12.0",
+    "stream": "^0.0.2",
+    "express": "^4.17.1",
+    "node-schedule": "^2.0.0",
+    "ssl-express-www": "^3.0.7"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "gusta4321",
+  "license": "ISC"
+}
